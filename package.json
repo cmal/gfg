@@ -1,0 +1,19 @@
+{
+  "name": "gfg",
+  "version": "1.0.0",
+  "description": "* GeeksforGeeks",
+  "main": "sum_of_all_subarrays.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "watch": "mocha --watch"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
